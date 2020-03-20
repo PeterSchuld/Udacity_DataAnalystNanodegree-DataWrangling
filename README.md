@@ -9,5 +9,5 @@ The dataset that we wrangle (and analyze and visualize) is the tweet archive of 
 #### Data ####
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for us to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. However, we need to gather more detailed data via the Twitter API (in json format). Furthermore, we use a Udacity database for the photographs of the dogs in the tweets to get predictions for the breeds of the dogs.   
 
-#### The following packages (libraries) need to be installed#### 
+#### The following packages (libraries) need to be installed #### 
 Pandas, NumPy, requests, tweepy, json
