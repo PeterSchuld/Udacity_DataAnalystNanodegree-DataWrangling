@@ -1,6 +1,10 @@
 # Udacity Data Analyst Nanodegree - Data Wrangling
 Project No. 4 in the Udacity Data Analyst Nanodegree Winter 2019-2020
 
+#### Mentor
+ Lucrezia Morvilli, London
+
+#### Project motivation
 Real-world data rarely comes clean. Using Python and its libraries, we gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. We document our wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
 
 #### Project Description ####
